@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/explosion/fastapi-explosion-extras/commit/b8cbf8c28400ab2b37b5d5bb437f00be9e012f7f",
       "git:hexsha": "b8cbf8c28400ab2b37b5d5bb437f00be9e012f7f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T03:22:50.949344+00:00"
     },
     {
       "@id": "https://repolex.ai/r/explosion/fastapi-explosion-extras/commit/c6afebe5306cc8d32a35baa6ac3ac72b3715cb21",
