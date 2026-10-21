@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "explosion",
+  "repo": "fastapi-explosion-extras",
+  "versions": [
+    {
+      "commit": "b8cbf8c28400ab2b37b5d5bb437f00be9e012f7f",
+      "parsed_at": "2026-10-21T03:20:09.973760+00:00",
+      "filetree": "filetree/b8cbf8c28400ab2b37b5d5bb437f00be9e012f7f.nq.gz",
+      "blobs": [
+        "blob/c788aca8df76667ab2e73396037d370a2ea08ce6.nq.gz",
+        "blob/6a3bc130a2c6ff297ca398bc05f4420dbe71ed8f.nq.gz",
+        "blob/31cf98034c8c4300851761a7bc5d1e5bed8ddb22.nq.gz",
+        "blob/63fbef0e7e625240e1477564f2e4a4ecc8cb888c.nq.gz",
+        "blob/5f7be3355b4c89986c67ef1a93550bdd5ad73eb6.nq.gz",
+        "blob/287a00bea19e3ae824a800af9217ce1011999fda.nq.gz",
+        "blob/c06577311db9aaa1effcc9650b8e39a11799afd7.nq.gz",
+        "blob/68c8918ca9953c92188b1d5a171cbce6ebab9ae0.nq.gz",
+        "blob/761f36382916f46887234f2ab532683f609c36a8.nq.gz",
+        "blob/9b9a93952b176250aa870878271e896ebfe0948a.nq.gz",
+        "blob/03737f079a11ab10c5bd7b22ac6345d158656393.nq.gz",
+        "blob/00cbcbf740da1cd780b8b825856965634f769173.nq.gz",
+        "blob/7669d49f8ab9f999f0b34aa378bb327de4393f2b.nq.gz",
+        "blob/974841b96c143ac1c58229465cfc25fc5c86ef34.nq.gz",
+        "blob/95592e584441b4519ed7f920c31c6041e86a1d49.nq.gz",
+        "blob/de7b1e2bfdc6950bf6276e93c6df62fdd45865fc.nq.gz",
+        "blob/b617e1cc62321964f4742038d4b79e137ec3b187.nq.gz",
+        "blob/3f1751c5906e911d159c85213d09152ad0cb3696.nq.gz",
+        "blob/23b15047c1124fa8039cbd128af3c7d0fec5f2bc.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
