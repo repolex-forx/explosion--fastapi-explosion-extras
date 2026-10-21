@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "fastapi-explosion-extras",
+  "versions": [
+    {
+      "commit": "b8cbf8c28400ab2b37b5d5bb437f00be9e012f7f",
+      "tag": "",
+      "parsed_at": "2026-10-21T03:22:50.949842+00:00"
+    }
+  ]
+}
